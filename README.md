@@ -3,7 +3,7 @@ Rime 擴充詞庫
 
 ## 使用方法
 
-1.  下載詞庫 https://github.com/rime-aca/dictionaries.git (或是直接 clone / pull 這個 repo)
+1.  下載詞庫 https://github.com/cor5corpii/luna_pinyin-dictionaries.git (或是直接 clone / pull 這個 repo)
 
     注意到其中應該有六個檔案：
 
